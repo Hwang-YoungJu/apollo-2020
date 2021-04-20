@@ -1,2 +1,10 @@
 {
-}
+    "prettier.singleQuote": false,
+    "prettier.semi": true ,
+    "prettier.useTabs": true,
+    "prettier.tabWidth": 4,
+    "prettier.printWidth": 80,
+    "prettier.arrowParens": "avoid",
+    "prettier.endOfLine": "auto"
+
+};
